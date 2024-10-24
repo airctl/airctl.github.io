@@ -2,21 +2,21 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
    id="svg2"
    width="1932"
    height="2666.6667"
    viewBox="0 0 1932 2666.6667"
    sodipodi:docname="BNB_CARDS_AIRCTL_PERSIST_002.svg"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+   inkscape:version="1.3 (0e150ed, 2023-07-21)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <metadata
      id="metadata8">
     <rdf:RDF>
@@ -25,7 +25,6 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -40,18 +39,21 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1094"
+     inkscape:window-width="1392"
+     inkscape:window-height="1067"
      id="namedview4"
      showgrid="false"
      showguides="false"
      inkscape:zoom="0.32"
-     inkscape:cx="295.13634"
-     inkscape:cy="1534.1907"
-     inkscape:window-x="-11"
-     inkscape:window-y="-11"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg2" />
+     inkscape:cx="293.75"
+     inkscape:cy="1534.375"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
   <image
      width="1932"
      height="2666.6667"
@@ -102,7 +104,8 @@
          y="1247.9167"
          style="fill:#cccccc" /></flowRegion><flowPara
        id="flowPara28"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT';fill:#cccccc">AIRCTL</flowPara></flowRoot>  <flowRoot
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT';fill:#cccccc">AIRCTL</flowPara></flowRoot>
+  <flowRoot
      xml:space="preserve"
      id="flowRoot22-2"
      style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none"
@@ -116,7 +119,8 @@
          y="1247.9167"
          style="fill:#ffffff" /></flowRegion><flowPara
        id="flowPara28-9"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:49.99661636px;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT';fill:#ffffff">SHELTER IN PLACE</flowPara></flowRoot>  <flowRoot
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:49.9966px;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT';fill:#ffffff">SHELTER IN PLACE</flowPara></flowRoot>
+  <flowRoot
      xml:space="preserve"
      id="flowRoot22-2-9"
      style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none"
@@ -130,27 +134,30 @@
          y="1247.9167"
          style="fill:#ffffff" /></flowRegion><flowPara
        id="flowPara28-9-9"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:41.66384506px;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT';fill:#000000">You didn't maintain line of sight to your R+D model training environments, and now who knows what is lurking on associated hosts.</flowPara></flowRoot>  <flowRoot
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:41.6638px;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT';fill:#000000">You didn't maintain line of sight to your R&amp;D model training environments, and now who knows what is lurking on associated hosts.</flowPara></flowRoot>
+  <flowRoot
      xml:space="preserve"
      id="flowRoot63"
-     style="fill:black;fill-opacity:1;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;letter-spacing:0px;word-spacing:0px"><flowRegion
+     style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
        id="flowRegion65"><rect
          id="rect67"
          width="909.375"
          height="62.5"
          x="-1678.125"
          y="563.54175" /></flowRegion><flowPara
-       id="flowPara69"></flowPara></flowRoot>  <flowRoot
+       id="flowPara69" /></flowRoot>
+  <flowRoot
      xml:space="preserve"
      id="flowRoot71"
-     style="fill:black;fill-opacity:1;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;letter-spacing:0px;word-spacing:0px"><flowRegion
+     style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
        id="flowRegion73"><rect
          id="rect75"
          width="1612.5"
          height="703.125"
          x="-1753.125"
          y="235.41675" /></flowRegion><flowPara
-       id="flowPara77"></flowPara></flowRoot>  <flowRoot
+       id="flowPara77" /></flowRoot>
+  <flowRoot
      xml:space="preserve"
      id="flowRoot22-2-9-4"
      style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none"
@@ -164,20 +171,22 @@
          y="1247.9167"
          style="fill:#ffffff" /></flowRegion><flowPara
        id="flowPara28-9-9-9"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:41.66384506px;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT';fill:#000000">Consult Asset Inventory</flowPara><flowPara
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:41.66384506px;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT';fill:#000000"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:41.6638px;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT';fill:#000000">Consult Asset Inventory</flowPara><flowPara
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:41.6638px;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT';fill:#000000"
        id="flowPara151" /><flowPara
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:41.66384506px;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT';fill:#000000"
-       id="flowPara153">Server Analysis</flowPara></flowRoot>  <flowRoot
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:41.6638px;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT';fill:#000000"
+       id="flowPara153">Server Analysis</flowPara></flowRoot>
+  <flowRoot
      xml:space="preserve"
      id="flowRoot22-2-9-4-5"
      style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none"
      transform="matrix(1.6001083,0,0,1.6001083,-529.21721,-366.1973)"><flowRegion
-       id="flowRegion24-8-7-1-9"
-       style="fill:#ffffff"><rect
-         id="rect26-6-3-6-9"
-         width="907.00989"
-         height="388.65305"
-         x="496.875"
-         y="1247.9167"
-         style="fill:#ffffff" /></flowRegion>
+   id="flowRegion24-8-7-1-9"
+   style="fill:#ffffff"><rect
+     id="rect26-6-3-6-9"
+     width="907.00989"
+     height="388.65305"
+     x="496.875"
+     y="1247.9167"
+     style="fill:#ffffff" /></flowRegion>&#10;</flowRoot>
+</svg>
