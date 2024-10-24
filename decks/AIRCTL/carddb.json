@@ -11,38 +11,241 @@
             "details" : ""
         },
         {
-            "name" : "Data Swamp Exfiltration",
+            "name" : "Hijacked Model Repository",
             "image" : "decks/AIRCTL/BNB_CARDS_AIRCTL_INITIAL_001.png",
             "type" : "initial",
             "id" : "002",
             "details" : ""
         },
         {
-            "name" : "Data Swamp Exfiltration",
-            "image" : "decks/AIRCTL/BNB_CARDS_AIRCTL_INJECT_001.png",
-            "type" : "inject",
+            "name" : "SQL Injection In Prompt",
+            "image" : "decks/AIRCTL/BNB_CARDS_AIRCTL_INITIAL_002.png",
+            "type" : "initial",
             "id" : "003",
             "details" : ""
         },
         {
-            "name" : "Data Swamp Exfiltration",
-            "image" : "decks/AIRCTL/BNB_CARDS_AIRCTL_PERSIST_001.png",
-            "type" : "persist",
+            "name" : "Exploit Data Encode Limitations",
+            "image" : "decks/AIRCTL/BNB_CARDS_AIRCTL_INITIAL_003.png",
+            "type" : "initial",
             "id" : "004",
             "details" : ""
         },
         {
-            "name" : "Data Swamp Exfiltration",
-            "image" : "decks/AIRCTL/BNB_CARDS_AIRCTL_PIVOT_001.png",
-            "type" : "pivot",
+            "name" : "Unsegmented R&D Network",
+            "image" : "decks/AIRCTL/BNB_CARDS_AIRCTL_INITIAL_004.png",
+            "type" : "initial",
             "id" : "005",
             "details" : ""
         },
         {
-            "name" : "Data Swamp Exfiltration",
+            "name" : "Sabotage In Context Learning",
+            "image" : "decks/AIRCTL/BNB_CARDS_AIRCTL_INITIAL_005.png",
+            "type" : "initial",
+            "id" : "006",
+            "details" : ""
+        },
+        {
+            "name" : "Malicious Model Manipulation",
+            "image" : "decks/AIRCTL/BNB_CARDS_AIRCTL_PERSIST_001.png",
+            "type" : "persist",
+            "id" : "007",
+            "details" : ""
+        },
+        {
+            "name" : "Shelter In Place",
+            "image" : "decks/AIRCTL/BNB_CARDS_AIRCTL_PERSIST_002.png",
+            "type" : "persist",
+            "id" : "008",
+            "details" : ""
+        },
+        {
+            "name" : "Zishing",
+            "image" : "decks/AIRCTL/BNB_CARDS_AIRCTL_PIVOT_001.png",
+            "type" : "pivot",
+            "id" : "009",
+            "details" : ""
+        },
+        {
+            "name" : "Test API With Simple Auth",
+            "image" : "decks/AIRCTL/BNB_CARDS_AIRCTL_PIVOT_002.png",
+            "type" : "pivot",
+            "id" : "010",
+            "details" : ""
+        },
+        {
+            "name" : "Correlated Worker Auth",
+            "image" : "decks/AIRCTL/BNB_CARDS_AIRCTL_PIVOT_003.png",
+            "type" : "pivot",
+            "id" : "011",
+            "details" : ""
+        },
+        {
+            "name" : "Consult Asset Inventory",
             "image" : "decks/AIRCTL/BNB_CARDS_AIRCTL_PROCEDURE_001.png",
             "type" : "procedure",
-            "id" : "006",
+            "id" : "012",
+            "details" : ""
+        },
+        {
+            "name" : "Exploratory Data Analysis",
+            "image" : "decks/AIRCTL/BNB_CARDS_AIRCTL_PROCEDURE_002.png",
+            "type" : "procedure",
+            "id" : "013",
+            "details" : ""
+        },
+        {
+            "name" : "Call the Doctor",
+            "image" : "decks/AIRCTL/BNB_CARDS_AIRCTL_PROCEDURE_003.png",
+            "type" : "procedure",
+            "id" : "014",
+            "details" : ""
+        },
+        {
+            "name" : "RTFM",
+            "image" : "decks/AIRCTL/BNB_CARDS_AIRCTL_PROCEDURE_04.png",
+            "type" : "procedure",
+            "id" : "015",
+            "details" : ""
+        },
+        {
+            "name" : "Cross Validation",
+            "image" : "decks/AIRCTL/BNB_CARDS_AIRCTL_PROCEDURE_005.png",
+            "type" : "procedure",
+            "id" : "016",
+            "details" : ""
+        },
+        {
+            "name" : "Literature Review",
+            "image" : "decks/AIRCTL/BNB_CARDS_AIRCTL_PROCEDURE_006.png",
+            "type" : "procedure",
+            "id" : "017",
+            "details" : ""
+        },
+        {
+            "name" : "Privacy Preserving Queries",
+            "image" : "decks/AIRCTL/BNB_CARDS_AIRCTL_PROCEDURE_007.png",
+            "type" : "procedure",
+            "id" : "018",
+            "details" : ""
+        },
+        {
+            "name" : "BCDR Plan",
+            "image" : "decks/AIRCTL/BNB_CARDS_AIRCTL_PROCEDURE_008.png",
+            "type" : "procedure",
+            "id" : "019",
+            "details" : ""
+        },
+        {
+            "name" : "Canary Tokens",
+            "image" : "decks/AIRCTL/BNB_CARDS_AIRCTL_PROCEDURE_009.png",
+            "type" : "procedure",
+            "id" : "020",
+            "details" : ""
+        },
+        {
+            "name" : "Incident Drills",
+            "image" : "decks/AIRCTL/BNB_CARDS_AIRCTL_PROCEDURE_010.png",
+            "type" : "procedure",
+            "id" : "021",
+            "details" : ""
+        },
+        {
+            "name" : "Centralized Logging",
+            "image" : "decks/AIRCTL/BNB_CARDS_AIRCTL_PROCEDURE_011.png",
+            "type" : "procedure",
+            "id" : "022",
+            "details" : ""
+        },
+        {
+            "name" : "Functional Baselines",
+            "image" : "decks/AIRCTL/BNB_CARDS_AIRCTL_PROCEDURE_012.png",
+            "type" : "procedure",
+            "id" : "023",
+            "details" : ""
+        },
+        {
+            "name" : "State Actor Prompting",
+            "image" : "decks/AIRCTL/BNB_CARDS_INJECT_001.png",
+            "type" : "inject",
+            "id" : "024",
+            "details" : ""
+        },
+        {
+            "name" : "Hazy Data Classification",
+            "image" : "decks/AIRCTL/BNB_CARDS_INJECT_002.png",
+            "type" : "inject",
+            "id" : "025",
+            "details" : ""
+        },
+        {
+            "name" : "Regulatory Ambush",
+            "image" : "decks/AIRCTL/BNB_CARDS_INJECT_003.png",
+            "type" : "inject",
+            "id" : "026",
+            "details" : ""
+        },
+        {
+            "name" : "OpEx Overflow",
+            "image" : "decks/AIRCTL/BNB_CARDS_INJECT_004.png",
+            "type" : "inject",
+            "id" : "027",
+            "details" : ""
+        },
+        {
+            "name" : "Intellectual Property Brothers",
+            "image" : "decks/AIRCTL/BNB_CARDS_INJECT_005.png",
+            "type" : "inject",
+            "id" : "028",
+            "details" : ""
+        },
+        {
+            "name" : "AI: Accidentally Intruded",
+            "image" : "decks/AIRCTL/BNB_CARDS_INJECT_006.png",
+            "type" : "inject",
+            "id" : "029",
+            "details" : ""
+        },
+        {
+            "name" : "Breach as a Service",
+            "image" : "decks/AIRCTL/BNB_CARDS_INJECT_007.png",
+            "type" : "inject",
+            "id" : "030",
+            "details" : ""
+        },
+        {
+            "name" : "Secret Agent Man",
+            "image" : "decks/AIRCTL/BNB_CARDS_INJECT_008.png",
+            "type" : "inject",
+            "id" : "031",
+            "details" : ""
+        },
+        {
+            "name" : "Imaginary Numbers",
+            "image" : "decks/AIRCTL/BNB_CARDS_INJECT_009.png",
+            "type" : "inject",
+            "id" : "032",
+            "details" : ""
+        },
+        {
+            "name" : "Ball and Toolchain",
+            "image" : "decks/AIRCTL/BNB_CARDS_INJECT_010.png",
+            "type" : "inject",
+            "id" : "033",
+            "details" : ""
+        },
+        {
+            "name" : "Data Hoarders",
+            "image" : "decks/AIRCTL/BNB_CARDS_INJECT_011.png",
+            "type" : "inject",
+            "id" : "034",
+            "details" : ""
+        },
+        {
+            "name" : "Friendly Fire",
+            "image" : "decks/AIRCTL/BNB_CARDS_INJECT_012.png",
+            "type" : "inject",
+            "id" : "035",
             "details" : ""
         }
     ],
