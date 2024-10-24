@@ -60,7 +60,7 @@ function opendeckselector() {
       }
       if (selecteddeck == "AI Security")
       {
-        cardlist = "decks/airctl/carddb.json";
+        cardlist = "decks/AIRCTL/carddb.json";
       }
       if (selecteddeck == "Cloud Security")
       {
