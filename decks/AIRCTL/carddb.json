@@ -1,0 +1,58 @@
+{
+    "title": "AIRCTL Expansion",
+    "revdate": "10-22-2024",
+    "link": "https://www.antisyphontraining.com/",
+    "data" : [
+        {
+            "name" : "Data Swamp Exfiltration",
+            "image" : "decks/AIRCTL/BNB_CARDS_AIRCTL_C2_001.png",
+            "type" : "c2",
+            "id" : "001",
+            "details" : ""
+        },
+        {
+            "name" : "Data Swamp Exfiltration",
+            "image" : "decks/AIRCTL/BNB_CARDS_AIRCTL_INITIAL_001.png",
+            "type" : "initial",
+            "id" : "002",
+            "details" : ""
+        },
+        {
+            "name" : "Data Swamp Exfiltration",
+            "image" : "decks/AIRCTL/BNB_CARDS_AIRCTL_INJECT_001.png",
+            "type" : "inject",
+            "id" : "003",
+            "details" : ""
+        },
+        {
+            "name" : "Data Swamp Exfiltration",
+            "image" : "decks/AIRCTL/BNB_CARDS_AIRCTL_PERSIST_001.png",
+            "type" : "persist",
+            "id" : "004",
+            "details" : ""
+        },
+        {
+            "name" : "Data Swamp Exfiltration",
+            "image" : "decks/AIRCTL/BNB_CARDS_AIRCTL_PIVOT_001.png",
+            "type" : "pivot",
+            "id" : "005",
+            "details" : ""
+        },
+        {
+            "name" : "Data Swamp Exfiltration",
+            "image" : "decks/AIRCTL/BNB_CARDS_AIRCTL_PROCEDURE_001.png",
+            "type" : "procedure",
+            "id" : "006",
+            "details" : ""
+        }
+    ],
+
+    "red": "img/bb-back-init.png",
+    "yellow": "img/bb-back-pivot.png",
+    "brown": "img/bb-back-c2.png",
+    "purple": "img/bb-back-persist.png",
+    "grey":   "img/bb-back-inject.png",
+    "green":  "",
+    "logo":   "img/antisyphon.png",
+    "addOnEnabled":"true"
+}
