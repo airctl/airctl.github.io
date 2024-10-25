@@ -2,21 +2,21 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
    id="svg2"
    width="1932"
    height="2666.6667"
    viewBox="0 0 1932 2666.6667"
    sodipodi:docname="BNB_CARDS_AIRCTL_PROCEDURE_011.svg"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+   inkscape:version="1.3 (0e150ed, 2023-07-21)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <metadata
      id="metadata8">
     <rdf:RDF>
@@ -40,17 +40,20 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1094"
+     inkscape:window-width="1792"
+     inkscape:window-height="1120"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.64"
-     inkscape:cx="1036.507"
-     inkscape:cy="1028.6705"
-     inkscape:window-x="-11"
-     inkscape:window-y="-11"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg2" />
+     inkscape:cx="1035.9375"
+     inkscape:cy="467.96875"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
   <image
      width="1932"
      height="2666.6667"
@@ -94,11 +97,12 @@
          y="1247.9167"
          style="fill:#cccccc" /></flowRegion><flowPara
        id="flowPara28"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT';fill:#cccccc">AIRCTL</flowPara></flowRoot>  <flowRoot
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT';fill:#cccccc">AIRCTL</flowPara></flowRoot>
+  <flowRoot
      xml:space="preserve"
      id="flowRoot22-7"
      style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none"
-     transform="matrix(1.6001083,0,0,1.6001083,-396.42035,-1749.4788)"><flowRegion
+     transform="matrix(1.6001083,0,0,1.6001083,-516.42035,-1749.4788)"><flowRegion
        id="flowRegion24-4"
        style="fill:#ffffff"><rect
          id="rect26-0"
@@ -108,7 +112,8 @@
          y="1226.8981"
          style="fill:#ffffff" /></flowRegion><flowPara
        id="flowPara28-6"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:72px;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT';fill:#ffffff">CENTRALIZED LOGGING</flowPara></flowRoot>  <flowRoot
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:72px;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT';fill:#ffffff">CENTRALIZED LOGGING</flowPara></flowRoot>
+  <flowRoot
      xml:space="preserve"
      id="flowRoot22-7-6"
      style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
@@ -122,26 +127,28 @@
          y="1226.8981"
          style="fill:#000000" /></flowRegion><flowPara
        id="flowPara28-6-2"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT';fill:#000000">Forget just the SIEM, everything is pushed up into your search solution - process logs, historians, services logs and traces - everything.</flowPara></flowRoot>  <flowRoot
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT';fill:#000000">Forget just the SIEM, everything is pushed up into your search solution - process logs, historians, services logs and traces - everything.</flowPara></flowRoot>
+  <flowRoot
      xml:space="preserve"
      id="flowRoot22-7-6-3"
      style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
      transform="matrix(1.6001083,0,0,1.6001083,-499.00811,-549.71646)"><flowRegion
-       id="flowRegion24-4-0-7"
-       style="fill:#000000"><rect
-         id="rect26-0-3-2"
-         width="879.41388"
-         height="524.19452"
-         x="479.16122"
-         y="1226.8981"
-         style="fill:#000000" /></flowRegion><flowPara
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:59.99593735px;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT';fill:#000000"
-       id="flowPara88"></flowPara>Splunk<flowPara
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:59.99593735px;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT';fill:#000000"
-       id="flowPara94" /><flowPara
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:59.99593735px;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT';fill:#000000"
-       id="flowPara96"></flowPara>Elasticsearch<flowPara
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:59.99593735px;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT';fill:#000000"
-       id="flowPara98" /><flowPara
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:59.99593735px;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT';fill:#000000"
-       id="flowPara100"></flowPara>Datadog</flowRoot></svg>
+   id="flowRegion24-4-0-7"
+   style="fill:#000000"><rect
+     id="rect26-0-3-2"
+     width="879.41388"
+     height="524.19452"
+     x="479.16122"
+     y="1226.8981"
+     style="fill:#000000" /></flowRegion><flowPara
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:59.9959px;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT';fill:#000000"
+   id="flowPara88" />Splunk<flowPara
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:59.9959px;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT';fill:#000000"
+   id="flowPara94" /><flowPara
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:59.9959px;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT';fill:#000000"
+   id="flowPara96" />Elasticsearch<flowPara
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:59.9959px;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT';fill:#000000"
+   id="flowPara98" /><flowPara
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:59.9959px;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT';fill:#000000"
+   id="flowPara100" />Datadog</flowRoot>
+</svg>
